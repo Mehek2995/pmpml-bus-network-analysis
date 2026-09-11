@@ -1,0 +1,274 @@
+stop_id,total_trips,stop_name,stop_lat,stop_lon,nearest_poi_name,nearest_poi_type,nearest_poi_distance_m
+8240,10,Ganj Peth,18.5091,73.862099,Bora Hospital,hospital,245.9
+8241,10,Mominpura,18.5061,73.862297,dental health care,hospital,34.0
+7771,10,Kamala Nehru Hospital,18.5226,73.862198,KAMLA NEHRU HOSPITAL,hospital,41.7
+8236,10,Kamala Nehru Hospital,18.522499,73.862,KAMLA NEHRU HOSPITAL,hospital,49.3
+8237,10,Gavkos Maruti,18.5203,73.864098,Dhanwantari Hospital,hospital,212.4
+8238,10,Govind Halwai Chowk,18.513,73.861801,Bora Hospital,hospital,187.5
+8239,10,Kasture Chowk,18.511299,73.8619,Bora Hospital,hospital,70.7
+106874,10,Mahila Mandal,18.4992493412638,73.850928402901,Chaitanya Stem Cell Center,hospital,101.9
+4059,10,Dashbhuja Ganpati,18.4883,73.846603,Shraddha Hospital,hospital,299.1
+2642,10,Whaghale Phata,18.7533220600629,74.2385888099671,Narwade Hospital,hospital,215.1
+2643,10,Ranjangaon,18.7550135681439,74.2445755004883,Narwade Hospital,hospital,460.2
+2759,10,Malthan Phata,18.700016,74.144402,"Surya Hospital, Shikrapur",hospital,412.3
+4063,10,Chintamani Society,18.4862,73.845802,Dr.Purohit Nursing Home,hospital,484.9
+4064,10,Dashbhuja Ganpati,18.488001,73.846497,Shraddha Hospital,hospital,329.1
+7749,10,Mahila Mandal,18.4993816091099,73.8505851541124,Chaitanya Stem Cell Center,hospital,73.3
+106797,10,Khadki Railway Station,18.561686196584,73.8409245450317,Ordnance Factory Hospital,hospital,385.4
+6022,10,Phuljai Chowk,18.648199,73.751198,Flora Hospital,hospital,427.4
+7226,10,Adarsh Nagar,18.664801,73.7397,Varad Hospital & Critical Care,hospital,478.8
+106463,10,Dandekar Pul Shashtri Road,18.502985868591,73.8452589786906,Colony Nursing Home,hospital,60.7
+526,10,Mahadev Mandir Sangvi,18.5760530615525,73.8201306116013,Dr Makan Surgical Maternity and Accident Hospital,hospital,63.9
+6166,10,Manik Colony,18.630743015156,73.7905097191837,Brahm Chaitanya Hospital,hospital,438.6
+2223,9,St Stand Alandi,18.673401,73.893402,"Shri Sai Hospital, Pune",hospital,184.3
+3821,9,Tillekar Manapa Madhyamik Vidhyalay,18.4554,73.884102,Vishwakarma Institute of Technology & Vishwakrma University Main Gate,college,181.2
+3822,9,Tillekar Nagar Chowk,18.4548,73.884399,Vishwakarma Institute of Technology & Vishwakrma University Main Gate,college,254.4
+3823,9,Tillekar Nagar Chowk,18.4548,73.8843,Vishwakarma Institute of Technology & Vishwakrma University Main Gate,college,249.5
+3824,9,Tillekar Manapa Madhyamik Vidhyalay,18.4554,73.884003,Vishwakarma Institute of Technology & Vishwakrma University Main Gate,college,176.1
+4553,9,St Stand Alandi,18.6735,73.893097,"Shri Sai Hospital, Pune",hospital,169.9
+106605,9,Dalkar Vasti,18.4854021980522,74.1330500546749,Suyash Hospital,hospital,256.4
+106606,9,Kamthe Agro,18.4840437933166,74.132846365253,Suyash Hospital,hospital,408.3
+106643,9,Purandar High School Saswad,18.346071639076,74.0333636371031,"Rural Hospital, Saswad",hospital,305.9
+106604,9,Vishnu Krupa Mangal Karyalay,18.4867758548133,74.1332431806076,Suyash Hospital,hospital,103.0
+368,8,Bavdhangaon,18.5194,73.778801,"Om Hospital, Bavdhan",hospital,455.7
+6241,8,Gawarwadi,18.5739,73.686096,Vedant Hospital,hospital,249.3
+6242,8,Megapolis,18.5741350145076,73.688548887697,Vedant Hospital,hospital,119.9
+6243,8,Megapolis,18.5748028903867,73.6886179026408,Vedant Hospital,hospital,66.8
+6244,8,Gawarwadi,18.573799,73.6856,Vedant Hospital,hospital,300.0
+369,8,D Palace,18.5175,73.780502,"Om Hospital, Bavdhan",hospital,181.2
+370,8,Bank Of Maharashtra Bavdhan,18.5154726816723,73.7820502689127,"Om Hospital, Bavdhan",hospital,114.0
+371,8,Shinde Nagar Bawdhan,18.512199,73.782303,"Om Hospital, Bavdhan",hospital,476.7
+5275,8,Master Bakery,18.6329,73.817101,"Chavan hospital, Pune",hospital,50.5
+5278,8,Masulkar Colony,18.633699,73.807198,Prem Clinic and Hospital,hospital,151.1
+5802,8,Mhada Colony Masulkar,18.633801,73.803497,lokmanya hospital,hospital,29.7
+3229,8,Kumar Properties,18.463493,73.905258,"Healing Hands Clinic, Undri",hospital,372.3
+3454,8,Loningaon,18.4846713520051,74.0256375074387,Loni Market Aathvde bajar.,marketplace,299.2
+3130,8,Parge Nagar,18.469801,73.891296,Satyanand Hospital,hospital,295.7
+3135,8,Military Hospital Vanawadi,18.5018845840417,73.8906499743462,Command Hospital Southern Command,hospital,193.1
+3129,8,Kausar Bag,18.473499,73.891403,Lifeline Hospital,hospital,164.6
+7542,8,Kalubai Rice Mill,18.8097,73.606682,Main Bazaar,marketplace,439.0
+3453,8,Loningaon,18.484699,74.025497,Loni Market Aathvde bajar.,marketplace,305.8
+7545,8,Swagat Kaman Takwe,18.8018,73.6073,Takawe Rural hospital,hospital,480.5
+7544,8,Khandoba Chowk Takve Gaon,18.804899,73.609001,Main Bazaar,marketplace,148.0
+7543,8,Takve Gaon,18.805925,73.608749,Main Bazaar,marketplace,32.2
+5354,8,Kumbare Park,18.503201,73.798203,Ekalavya Shikshan Sanstha,college,295.7
+5353,8,Guru Ganesh Nagar,18.502899,73.7995,Ekalavya Shikshan Sanstha,college,425.7
+4497,8,Lakshmi Nagar Police Chowky,18.4916,73.849899,Yashashree Maternity and Nursing Home,hospital,326.9
+7617,8,Infosys Phase 1,18.5858857506125,73.7339580418561,"Hope Foundation's International Institute of Information Technolohy, Pune",college,347.1
+2905,8,Nhavare,18.662701,74.371597,"Rural Hospital, Nhavare",hospital,93.0
+8055,8,Ghule Nagar Vadgaon Budruk,18.4609014742577,73.8251283184143,Chavan Hospital,hospital,195.5
+5404,8,Ovhal Vasti,18.3438,73.848,Shlok Hospital,hospital,497.6
+3334,8,Dhayari Phata Dhayari Road,18.46067694058,73.812783442219,Trimurti Hospital,hospital,306.0
+106792,8,Nigdi,18.6604484745353,73.7764489331687,Ameya Netralaya (Eye Hospital),hospital,118.9
+8126,7,Yavat,18.4755,74.271797,Anand Hospital,hospital,288.7
+8127,7,Station Road Yavat,18.4764,74.2677,Yavat Rural Hospital,hospital,117.7
+106720,7,Siddharthnagar Varvand,18.4469064253069,74.4109374090555,Divekar Hospital,hospital,104.0
+8100,7,Gram Panchayat Karyalay Varvand,18.4475,74.407898,Divekar Hospital,hospital,274.9
+5221,7,Vitthalbaba Darga,18.6789,73.899399,"Rural Hospital, Alandi",hospital,439.5
+6406,7,Parkhi Vidyalaya,18.5746,73.706497,Unknown,hospital,197.9
+6407,7,Chandephata Maan,18.573799,73.702599,Unknown,hospital,235.3
+6410,7,Hinjewadi Maan Phase 3 Corner,18.5734572466159,73.6889619058087,Vedant Hospital,hospital,206.4
+6397,7,Pandavnagar Maan,18.5849,73.731903,"Hope Foundation's International Institute of Information Technolohy, Pune",college,488.3
+6405,7,Mandevi Temple,18.575199,73.709198,Unknown,hospital,487.1
+8574,7,Isha Nagari,18.487499,73.8032,Mai Mangeshkar Hospital,hospital,447.0
+8575,7,Chaitanyanagri,18.484699,73.805901,Kulkarni Hospital and Diagnostic Centre,hospital,361.4
+106860,7,Philips Corner,18.6201146979219,73.8414008481494,Saidham Hospital,hospital,219.2
+106861,7,Philips Corner,18.6202367048769,73.8412024815186,Saidham Hospital,hospital,243.2
+8809,7,Wakefield It Company,18.5605407404737,73.9116804974477,apollo clinic,hospital,495.1
+8810,7,Sakore Nagar,18.561899,73.911201,apollo clinic,hospital,404.5
+8811,7,Nexa Showroom,18.5623,73.907097,SYMBOSIS INTERNATIONAL SCHOOL,college,407.7
+3521,6,E C P Coloney,18.4792,73.931297,Aadhar Hospital,hospital,390.3
+8343,6,Warje Highway / Navin Highway,18.4807989705934,73.8036323912869,Chaitanya Centre For Psychological Help,hospital,162.0
+2431,6,Pratima Nagar,18.6993042683941,74.1360104084015,"Jijamata Hospital, Pune",hospital,459.9
+1947,6,Aditya Garden City,18.4871744622296,73.7903326749802,Arvind Ganpat Bartakke Dawakhana Atulnagar,hospital,468.0
+1948,6,Aditya Garden City,18.487301,73.790298,Arvind Ganpat Bartakke Dawakhana Atulnagar,hospital,481.9
+2851,6,Chatrapati Sambhaji High School,18.65,74.057297,Dr Sonawane Hospital,hospital,351.9
+3522,6,Satav Nagar,18.474899,73.931503,Aadhar Hospital,hospital,90.3
+3500,6,Satav Nagar,18.476801,73.931396,Aadhar Hospital,hospital,125.8
+3501,6,E C P Coloney,18.479311418768,73.9312317967415,Aadhar Hospital,hospital,402.6
+6396,6,Pandavnagar Maan,18.5849,73.731796,"Hope Foundation's International Institute of Information Technolohy, Pune",college,499.3
+6681,6,Koyte Vasti,18.630899,73.737396,Punawale Specialty Clinic,hospital,480.9
+6387,6,Mandevi Temple,18.5753,73.709198,Unknown,hospital,490.8
+7222,6,Tukaram Nagar Police Chowki,18.623301,73.818497,Padam.Dr.D.Y.Patil Hospital and Research Centre,hospital,302.4
+1074,6,Mezza Nine,18.593864,73.735397,Hinjawadi Hospital,hospital,138.7
+6381,6,Hinjewadi Maan Phase 3 Corner,18.5733396167879,73.6890075349194,Vedant Hospital,hospital,220.2
+6385,6,Chandephata Maan,18.573960131788,73.7028293202338,Unknown,hospital,211.9
+6386,6,Parkhi Vidyalaya,18.574699,73.706703,Unknown,hospital,222.2
+3942,6,Chokhande Aali,18.3396,74.0327,Dr. Mainkar Hospital,hospital,471.3
+7265,6,Aaple Ghar Vrudhashram,18.6582122795059,73.7242665200991,Shivsai Medical & General store,hospital,290.7
+7690,6,Siemens,18.5902125376903,73.7329420553982,"Ruby Hall Clinic, Hinjawadi, Pune",hospital,269.4
+3943,6,Girme Aali,18.341299,74.032898,Dr. Mainkar Hospital,hospital,390.4
+2005,6,Link Road,18.5404,73.784897,Jeevan Deep Medicare Centre,hospital,339.4
+2390,6,Loni Dhamni,18.8919819782055,74.0807864069939,Bhosale Hospital,hospital,92.5
+2004,6,Link Road,18.5403950511233,73.7847724556923,Jeevan Deep Medicare Centre,hospital,335.9
+6789,5,Rakesh Sweet Mart,18.634951309081,73.8437615955131,Medicover Hospital,hospital,253.9
+6788,5,Vaishnavi Mata Mandir,18.635799,73.844704,Medicover Hospital,hospital,211.9
+7091,5,Union Bank Indrayani Nagar,18.6343781857096,73.8464310581181,Medicover Hospital,hospital,34.9
+8894,5,Thermax Company,18.6602,73.793404,"Chetana Hospital, Pune",hospital,393.5
+8902,5,Sai Garden,18.6624194865912,73.7944229990215,"Chetana Hospital, Pune",hospital,418.8
+8898,5,Akurdi Khandoba Maal,18.6511,73.786201,PCMC-Akurdi Hospital,hospital,463.3
+265,5,Balbhavan,18.560785607231,73.8413238591012,Ordnance Factory Hospital,hospital,329.9
+7747,5,Morwadi Chowk,18.6287008030885,73.8027150889527,Nanal Hospital,hospital,425.1
+8910,5,Gurumayya Shalachinchwade Nagar,18.634501,73.774498,Om Shree Swami Samarth Hospital,hospital,494.3
+8897,5,Akurdi Khandoba Maal,18.650801,73.786301,PCMC-Akurdi Hospital,hospital,465.1
+6420,5,Ruston Colony,18.6364,73.777397,Om Shree Swami Samarth Hospital,hospital,279.6
+6794,5,Sant Nagar,18.646799,73.845497,Patil Eye Hospital,hospital,478.6
+5323,5,Bhaji Market  Market Yard,18.489401,73.863899,G B Indumati Manilal Khanna Hospital,hospital,452.3
+6437,5,Bijli Nagar Morya Nagari,18.642599,73.772797,parmar Tailer,marketplace,115.9
+2850,5,Chatrapati Sambhaji High School,18.6502,74.057198,Dr Sonawane Hospital,hospital,376.2
+6415,5,Akurdi Railway Station Magil Baju,18.6479090999768,73.7638954831398,Dr D Y Patil College of Agricultural Business Management,college,364.3
+6440,5,Akurdi Railway Station Magil Baju,18.6480012559376,73.7637023824992,Dr D Y Patil College of Agricultural Business Management,college,344.7
+6438,5,Bijlinagar,18.644160590537,73.7690883213161,Paras Polyclinic and General Hospital,hospital,210.5
+6433,5,Chaphekar Chowk Vetal Nagar,18.6308256460939,73.7809295148092,Chaitanya Hospital,hospital,140.7
+6334,5,Waghere Heights,18.609501,73.802299,Amrut Hospital,hospital,71.9
+6333,5,Nanekarpark,18.606701,73.801399,Amrut Hospital,hospital,347.7
+6323,5,Nanekarpark,18.606501,73.801498,Amrut Hospital,hospital,368.9
+6322,5,Waghere Heights,18.609501,73.802498,Amrut Hospital,hospital,90.6
+6422,5,Chaphekar Chowk Vetal Nagar,18.6308866331771,73.781077716719,Chaitanya Hospital,hospital,151.2
+6421,5,Chaitanya Sabhagruh,18.633699,73.779602,Om Shree Swami Samarth Hospital,hospital,102.5
+6436,5,Power House Chinchwade Nagar,18.6411,73.773598,parmar Tailer,marketplace,280.8
+6435,5,Ruston Colony,18.6364,73.777298,Om Shree Swami Samarth Hospital,hospital,286.7
+742,5,Hanuman Mandir Sapras Road,18.5543,73.872398,Unknown,hospital,492.6
+6434,5,Chaitanya Sabhagruh,18.633699,73.779404,Om Shree Swami Samarth Hospital,hospital,95.3
+6419,5,Power House Chinchwade Nagar,18.641199,73.773804,"Ashwini Hospital, Pune",hospital,277.6
+6418,5,Bijli Nagar Morya Nagari,18.6429,73.772797,"Ashwini Hospital, Pune",hospital,92.9
+6417,5,Bijlinagar,18.6442787324639,73.7691748034908,Paras Polyclinic and General Hospital,hospital,205.6
+6416,5,Guruvdara Bijlinagar,18.645599,73.766899,Paras Polyclinic and General Hospital,hospital,484.2
+263,5,Lic Colony,18.562095989414,73.8364791531354,Shewale Hospital,hospital,421.3
+262,5,40 Aundh Road,18.5624886389291,73.8324951266751,Shewale Hospital,hospital,19.9
+1002,5,Hotel Rajwada,18.6409,73.756302,Ojas Multispeciality Hospital,hospital,315.4
+106811,5,Rangehills Corner,18.538632662383,73.8341331920679,Unknown,university,111.6
+106810,5,Yashwant Nagar Rangehills,18.5407687924022,73.8363111391086,Unknown,university,440.1
+306,5,40 Aundh Road,18.5623917333754,73.8325714420287,Shewale Hospital,hospital,30.5
+305,5,Lic Colony,18.5620216146652,73.8363483673664,Shewale Hospital,hospital,409.0
+303,5,Balbhavan,18.5608689602682,73.8413200113754,Ordnance Factory Hospital,hospital,330.5
+338,5,Kanchanban Society,18.5124039159898,73.8063701912627,Kulkarni Endo Surgery Institute and Reconstructive Urology Centre,hospital,459.9
+1017,5,Hotel Rajwada,18.641001,73.7565,Ojas Multispeciality Hospital,hospital,318.8
+6023,5,Shinde Vasti Corner,18.6432727837966,73.7503811743331,Ojas Multispeciality Hospital,hospital,447.0
+333,5,Kanchanban Society,18.5123476538673,73.8064298127222,Kulkarni Endo Surgery Institute and Reconstructive Urology Centre,hospital,461.0
+6024,5,Shinde Vasti Corner,18.643152221123,73.7503281921583,Ojas Multispeciality Hospital,hospital,452.7
+8893,5,Sai Garden,18.662367,73.794594,"Chetana Hospital, Pune",hospital,402.5
+8901,5,Thermax Company Gate No. 9,18.660299,73.793098,"Chetana Hospital, Pune",hospital,427.2
+6792,5,Sahara Sweet Mart,18.631901,73.842796,Medicover Hospital,hospital,447.1
+106784,4,Kalamkar Chowk,18.5641830944829,73.7769163153868,Benecare Superspeciality Hospital,hospital,25.7
+5108,4,Centra Corner,18.5573381507117,73.7720454075101,elite hospital,hospital,88.2
+5109,4,Murkoote Park,18.5578416143259,73.7736761891505,elite hospital,hospital,252.6
+8598,4,Madhuban Society Bawdhan,18.505899,73.773003,Centre for Developemtn Studies and Activities,university,291.4
+2497,4,Loni Dhamni,18.892073336109,74.0807408094406,Bhosale Hospital,hospital,96.8
+8595,4,Sarthi Santeen Hills Bawdhan,18.5021,73.773003,Unknown,university,317.5
+653,4,Vadgaon Budruk,18.466801,73.822998,Kamaladevi Maternity Hospital & Research Home,hospital,423.7
+363,4,Mes Pumping Station,18.533199,73.793503,Pashan vegetable market,marketplace,495.5
+2906,4,Mallika Arjun College Nhavare Road,18.6651,74.369598,"Rural Hospital, Nhavare",hospital,427.1
+2457,4,Pratima Nagar,18.6991848589118,74.136093556881,"Jijamata Hospital, Pune",hospital,444.2
+2975,4,Mallika Arjun College Nhavare Road,18.6651116083151,74.3694940209389,"Rural Hospital, Nhavare",hospital,434.4
+3228,4,Sangriya Apartment,18.463284,73.907707,"Healing Hands Clinic, Undri",hospital,114.0
+3227,4,Vedant Apartment,18.4630932293454,73.9104902744293,"Healing Hands Clinic, Undri",hospital,183.3
+3309,4,Ganeshmala Corner,18.494968,73.836945,Anup Hospital,hospital,441.7
+8065,4,Shivaji Maharaj Putala Vadagaon,18.4630270773204,73.825322109988,Chavan Hospital,hospital,428.0
+8059,4,Fun Time,18.4700678642655,73.8217746794976,Kamaladevi Maternity Hospital & Research Home,hospital,438.7
+8056,4,Shivaji Maharaj Putala Vadagaon,18.4628673992924,73.8253569839648,Chavan Hospital,hospital,410.3
+5348,4,Dahanukar Colony,18.496,73.808899,Kamal Netra Rugnalaya,hospital,365.0
+5347,4,Colony Number 10,18.495501,73.810402,Kamal Netra Rugnalaya,hospital,197.1
+5223,4,Alandi Police Chowky,18.676001,73.898804,"Rural Hospital, Alandi",hospital,127.7
+8322,4,Paud St Stand,18.523495,73.61924,Sai General Hospital,hospital,39.9
+7744,4,Thergaon Phata,18.6195244812106,73.7699459057102,Shree Anand Memorial Hospital,hospital,410.3
+7762,4,Thergaon Phata,18.6168,73.767303,Global chemist,hospital,315.2
+3136,4,Limb Center,18.503922,73.887856,PMC ARMED FORCE MEDICAL COLLEGE(AFMC),hospital,238.8
+3099,4,Limb Center,18.5039194313592,73.8877156376839,PMC ARMED FORCE MEDICAL COLLEGE(AFMC),hospital,253.6
+106476,4,Salve Garden,18.4580529949018,73.8779953996068,Chordiya Nursing Home,hospital,21.1
+7590,4,Kalewadi Phata Corner,18.6026,73.776703,"Global Multi Speciality Hospital, Pune",hospital,58.9
+106477,4,Ladies Hostel,18.4610245439716,73.8776927468384,Chordiya Nursing Home,hospital,326.4
+3257,4,Vedant Apartment,18.463165,73.910042,"Healing Hands Clinic, Undri",hospital,135.3
+3256,4,Sangriya Apartment,18.463417,73.907898,"Healing Hands Clinic, Undri",hospital,93.4
+8576,4,Patel High School,18.483101,73.807404,Kulkarni Hospital and Diagnostic Centre,hospital,305.3
+106782,4,Aagnishaman Kendr Baner,18.5601899456376,73.7766706489883,Benecare Superspeciality Hospital,hospital,420.3
+6786,4,Union Bank Indrayani Nagar / Union Bank Bhosari,18.634424587684,73.8463304871141,Medicover Hospital,hospital,23.9
+6785,4,Vaishnavi Mata Mandir,18.6358535713563,73.844404666301,Medicover Hospital,hospital,239.0
+7099,4,Rakesh Sweet Bhosari Road,18.6350015546872,73.8439185139447,Medicover Hospital,hospital,239.2
+7083,4,Sahara Sweet Mart,18.637362,73.844528,Medicover Hospital,hospital,365.1
+3529,4,Pune Station St. Helena'S Stand,18.5245,73.872101,David Sassoon Hospital,hospital,189.9
+5276,4,Vastu Udyog,18.633101,73.814697,"Chavan hospital, Pune",hospital,220.5
+5816,4,O Sector Masulkar Colony,18.6333379901366,73.8095506736442,Prem Clinic and Hospital,hospital,399.2
+5815,4,Masulkar Colony Ajmera,18.633801,73.805801,Prem Clinic and Hospital,hospital,27.8
+5801,4,Vitthal Mandir Masulkar,18.6331639627123,73.8129403369825,"Chavan hospital, Pune",hospital,405.5
+5281,4,Vastu Udyog,18.632999,73.815598,"Chavan hospital, Pune",hospital,127.7
+8597,4,Nyati Towers Bawdhan,18.5048095898926,73.7732036142293,Centre for Developemtn Studies and Activities,university,390.6
+8596,4,Kokate Wasti Bawdhan,18.5028331755626,73.7741249506788,Unknown,university,437.4
+6777,4,Shaskiya Vasatigruha,18.6528,73.8433,The Diagno Hub,hospital,316.8
+106783,4,Maitri Academy Baner,18.5630846673223,73.7768197476767,Benecare Superspeciality Hospital,hospital,100.5
+8774,3,Hanuman Chowk Ram Nagar,18.4753,73.805702,Chaitanya Centre For Psychological Help,hospital,487.5
+8775,3,Ram Nagar Varje,18.476299,73.805298,Chaitanya Centre For Psychological Help,hospital,369.4
+8776,3,Warje Canal,18.477699,73.801804,Chaitanya Centre For Psychological Help,hospital,337.8
+8777,3,Warje Pul,18.480301,73.803596,Chaitanya Centre For Psychological Help,hospital,119.4
+5222,3,Alandi Police Chowky,18.675972047244,73.8984886736517,"Rural Hospital, Alandi",hospital,104.5
+106793,3,Pune Station Moledina Road,18.5275752196755,73.8732451702751,BJ Medical College,college,162.6
+4246,3,Ganesh Mangal Karyalay,18.282499,74.168602,Shatayu Hospital and Ayurvedic Research Centre,hospital,484.2
+4247,3,Shatayu Hospital,18.279699,74.164101,Malhar Hospital,hospital,47.3
+4248,3,Shatayu Hospital,18.279699,74.163902,Tulsi Communication.Idea Gallery,hospital,33.5
+7519,3,Sadhguru Traders,18.846901,73.891701,Apex Hospital,hospital,57.0
+8577,3,Patel High School,18.484301,73.808502,Kulkarni Hospital and Diagnostic Centre,hospital,129.0
+7514,3,Sadhguru Traders,18.8468,73.891502,Apex Hospital,hospital,59.5
+7515,3,Siddheswar Nagar,18.8500560534341,73.8904709858053,Sushrut Hospital,hospital,391.2
+7516,3,Apax Hospital,18.852301,73.888496,Sushrut Hospital,hospital,199.1
+5834,3,Akurdi Police Chowky,18.6506265054074,73.7670933461803,Anand Hospital,hospital,445.4
+4860,3,Symbiosis College Gahunje Road,18.6600622771858,73.7180002230945,Shivsai Medical & General store,hospital,431.6
+4861,3,Mangalam Sales Office  Gahunje Road,18.6579543787858,73.7232518831541,Shivsai Medical & General store,hospital,183.6
+4866,3,Mangalam Sales Office  Gahunje Road,18.6578679680157,73.7231741175012,Shivsai Medical & General store,hospital,176.4
+4867,3,Symbiosis College Gahunje Road,18.66,73.718102,Shivsai Medical & General store,hospital,418.9
+7517,3,Apax Hospital,18.8521,73.888802,Sushrut Hospital,hospital,215.1
+7518,3,Siddheswar Nagar,18.849878,73.890472,Sushrut Hospital,hospital,398.3
+9235,3,Yerawada,18.5452571214276,73.8866554888687,Kataria Hospital,hospital,62.8
+3525,3,Pune Station St. Helena'S Stand,18.5243,73.871803,David Sassoon Hospital,hospital,175.2
+228,2,Rajaram Pul Corner / Warje Pul,18.4799817982758,73.8042285536596,Chaitanya Centre For Psychological Help,hospital,53.6
+8779,2,Warje Canal,18.4779,73.801498,Chaitanya Centre For Psychological Help,hospital,352.5
+6526,2,Akurdi Chowk,18.6492,73.785202,PCMC-Akurdi Hospital,hospital,346.4
+6959,2,Kanda Lasun Sanshodhan Kendra,18.843771,73.881882,"Rural Hospital, Chandoli",hospital,403.7
+6954,2,Zilla Parishad Shal Thigalsthal,18.858646,73.889206,Atharva Hospital,hospital,399.4
+776,2,Datta Mandir Srushti Chowk,18.598820681579,73.820022046566,Khare Dental Clinic,hospital,284.9
+775,2,H Kshetriya Karyalay,18.6003,73.821701,Khare Dental Clinic,hospital,418.4
+774,2,Smashan Bhumi Kasarwadi,18.6022,73.822304,Kand Clinic,hospital,263.0
+773,2,Sarita Sargam Society,18.6045,73.821701,Kand Clinic,hospital,319.4
+864,2,Shitalbaug,18.617701,73.843376,Saidham Hospital,hospital,204.3
+8781,2,Hanuman Chowk Ram Nagar,18.475401,73.805801,Chaitanya Centre For Psychological Help,hospital,480.0
+8602,2,Lakshminagar Corner,18.4926422721534,73.8508526678451,Suman Hospital,hospital,277.0
+6356,2,Lakshmi Nagar Corner,18.4924442396963,73.8498723506928,Suman Hospital,hospital,378.7
+8603,2,Lakshminagar Police Chowky,18.4916476612961,73.8498267636587,Yashashree Maternity and Nursing Home,hospital,333.0
+8600,2,Mile Dagad Kramank 8 Bavdhan Ghat,18.5073937976854,73.7745871314188,Centre for Developemtn Studies and Activities,university,398.2
+8599,2,Mile Dagad Kramank 8 Bavdhan Ghat,18.5074141456235,73.7748714334983,Centre for Developemtn Studies and Activities,university,428.2
+5817,2,Vitthal Mandir Masulkar,18.6332154147541,73.8127988576889,"Chavan hospital, Pune",hospital,420.3
+5818,2,Udyam Nagri,18.635099,73.820198,"Chavan hospital, Pune",hospital,415.1
+5800,2,Udyam Nagri,18.635099,73.820396,"Chavan hospital, Pune",hospital,433.3
+7583,2,Mezza Nine,18.5935,73.735802,Hinjawadi Hospital,hospital,191.2
+7608,2,Navin Manapa Shala,18.589676,73.815506,Pagare Hospital,hospital,135.6
+7584,2,Shivaji Chowk Hinjawadi,18.591299,73.738998,Sanjeevani Hospital,hospital,57.6
+7605,2,Sai Chowk Navi Sangvi,18.579439,73.815872,Laxman Jagtap Vegetable Market,marketplace,29.3
+7601,2,Sai Chowk Navi Sangvi,18.580925,73.815758,Sangavi Multispecialist Hospital,hospital,7.6
+7599,2,Navin Manapa Shala,18.58975,73.816803,Pagare Hospital,hospital,89.7
+5277,2,Vitthal Mandir Masulkar,18.633499,73.807098,Prem Clinic and Hospital,hospital,139.8
+3203,2,Mitra Nagar,18.5217818087358,73.90953540802,"Shreenath Hospital, Pune",hospital,301.6
+8355,2,Shastri Nagar Kothrud,18.5044,73.804199,Sathe Multispeciality Hospital,hospital,268.7
+3204,2,Bhim Nagar Jahangirnagar Road,18.5198,73.910599,Chaitanya General Hospital,hospital,404.1
+3202,2,Siporex Company Main Gate,18.5238037032101,73.9096185564995,"Shreenath Hospital, Pune",hospital,423.6
+7774,2,Mukbadhir Shikshan Kendr,18.5197306528589,73.8303552265533,Gokhale Institute of Politics & Economics,university,284.5
+8354,2,Gurujan Society,18.505899,73.802696,Sathe Multispeciality Hospital,hospital,147.2
+8361,2,Gurujan Society,18.505899,73.802498,Sathe Multispeciality Hospital,hospital,163.4
+8360,2,Shastri Nagar Kothrud,18.504299,73.8041,Sathe Multispeciality Hospital,hospital,278.1
+106877,2,Bahiratwadi,18.5344086409553,73.830071618057,Joglekar Hospital,hospital,418.6
+7780,2,Mukbadhir Shikshan Kendr,18.5196924906494,73.8304298583748,Gokhale Institute of Politics & Economics,university,279.4
+3815,2,Mandai Stand,18.5134727160639,73.8559019565582,Umarji Hospital,hospital,259.5
+5107,2,Nanavare Chowk,18.5576217862772,73.7706009846387,elite hospital,hospital,72.9
+5106,2,Mohannagar,18.556801,73.766998,elite hospital,hospital,463.3
+2305,2,Ambedkar Society,18.553101,73.873596,Unknown,hospital,392.7
+4545,2,Modern High School,18.5255431969067,73.8481819808764,Dr. Karve Childrens Hospital,hospital,210.5
+4539,2,Vanaj Company,18.507401,73.800903,City Hospital,hospital,126.5
+5113,2,Mohannagar,18.5564,73.767097,elite hospital,hospital,464.6
+5112,2,Nanavare Chowk,18.5574914611182,73.770614393054,elite hospital,hospital,74.1
+8780,2,Ram Nagar Varje,18.4762,73.805298,Chaitanya Centre For Psychological Help,hospital,380.0
+807,2,Datta Mandir Srushti Chowk,18.5987622126431,73.8199174404144,Khare Dental Clinic,hospital,279.2
+810,2,Sarita Sargam Society,18.6043598941569,73.8216662406922,Kand Clinic,hospital,317.0
+809,2,Smashan Bhumi Kasarwadi,18.6022829488625,73.8221759016602,Kand Clinic,hospital,270.7
+808,2,H Kshetriya Karyalay,18.6002874846063,73.8215938210488,Khare Dental Clinic,hospital,407.1
+3182,1,Bhim Nagar Jahangirnagar Road,18.519699,73.9105,Chaitanya General Hospital,hospital,394.4
+3183,1,Mitra Nagar,18.5217,73.909599,"Shreenath Hospital, Pune",hospital,306.1
+3184,1,Siporex Company Main Gate,18.5238393087624,73.9095595479012,"Shreenath Hospital, Pune",hospital,422.0
+2299,1,Patil Estate,18.531029,73.854637,Coep College,college,240.8
